@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>邹先强 - 个人主页</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>邹先强</h1>
+        <p>中国人民大学劳动人事学院副教授</p>
+        <nav>
+            <a href="#about">基本情况</a>
+            <a href="#research">研究领域</a>
+            <a href="#publications">发表论文</a>
+            <a href="#courses">开设课程</a>
+            <a href="#awards">获奖情况</a>
+            <a href="#contact">联系信息</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>基本情况</h2>
+        <p>副教授，硕士生导师，国家发展与战略研究院研究员，共同富裕研究院研究员，国家中小企业研究院研究员、全球劳动组织（GLO）会员，经济学博士。博士毕业于香港科技大学商学院经济系。主持国家自然科学基金青年项目及多项省部级课题。</p>
+    </section>
+
+    <section id="research">
+        <h2>研究领域</h2>
+        <ul>
+            <li>劳动经济学</li>
+            <li>发展经济学</li>
+            <li>城市经济学</li>
+            <li>中国经济</li>
+        </ul>
+    </section>
+
+    <section id="publications">
+        <h2>发表论文</h2>
+        <ul>
+            <li>Wei Luo, Lixin Tang, Yaxin Yang, Xianqiang Zou. (2025) Industrial Automation and Workplace Safety in China. <i>Journal of Development Economics</i>.</li>
+            <!-- Add more publications here -->
+        </ul>
+    </section>
+
+    <section id="courses">
+        <h2>开设课程</h2>
+        <ul>
+            <li>新生研讨课（本科生）</li>
+            <li>贫困与不平等（本科生）</li>
+            <li>收入分配问题研究（硕士研究生）</li>
+            <li>劳动经济学的实证策略（博士研究生）</li>
+        </ul>
+    </section>
+
+    <section id="awards">
+        <h2>获奖情况</h2>
+        <ul>
+            <li>中国人民大学杰出学者 2019-至今</li>
+            <li>Hong Kong PhD Fellowship Scheme, Research Grants Council of Hong Kong, 2015-2019</li>
+            <!-- Add more awards here -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>联系信息</h2>
+        <p>电子邮箱：zouxianqiang@gmail.com; zouxianqiang@ruc.edu.cn</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 邹先强. All rights reserved.</p>
+    </footer>
+</body>
+</html>
